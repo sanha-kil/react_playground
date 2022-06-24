@@ -1,5 +1,5 @@
 import React from 'react';
-import QRcode from './pages/QRcode';
+import QRcode from './components/QRcode';
 import GlobalStyles from './styles/GlobalStyles';
 
 function App() {
