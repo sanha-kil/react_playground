@@ -6,6 +6,7 @@ function QRcode() {
   return (
     <QRContainer>
       <QRCodeSVG value="https://reket.co.kr/p/FMKTLPJAGYKH" />
+      gd
     </QRContainer>
   );
 }
