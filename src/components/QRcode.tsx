@@ -5,7 +5,7 @@ import styled from 'styled-components';
 function QRcode() {
   return (
     <QRContainer>
-      <QRCodeSVG value="https://shop.reket.co.kr/" />
+      <QRCodeSVG value="https://reket.co.kr/p/FMKTLPJAGYKH" />
     </QRContainer>
   );
 }
