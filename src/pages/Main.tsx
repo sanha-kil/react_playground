@@ -1,7 +1,8 @@
 import React from 'react';
+import QRcode from 'src/components/QRcode';
 
 function Main(): JSX.Element {
-  return <div>main</div>;
+  return <QRcode />;
 }
 
 export default Main;
